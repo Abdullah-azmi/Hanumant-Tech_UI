@@ -1,0 +1,1375 @@
+
+
+       
+/* nav bar  */
+#header {
+    height: 60px;
+    width: 1263px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    margin-left: -8px;
+    position: fixed;
+    box-shadow: 0px 2px grey;
+    margin-top: -8px;
+
+}
+
+#ul1 #li1 {
+    float: left;
+    padding: 10px 25px;
+    list-style: none;
+    font-weight: bold;
+}
+
+#ab {
+    margin-top: -60px;
+    margin-left: 550px;
+}
+
+#A1 {
+    color: black;
+    text-decoration: none;
+}
+
+/* background img */
+#header1 {
+    height: 350px;
+    width: 1263px;
+    margin-top: 36px;
+    margin-left: -8px;
+    background-image: url(image/hanumant\ image\ digital.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#b{
+    color: white;
+    line-height: 210px;
+    margin-left: 20px;
+}
+
+#b1 {
+    width: 47%;
+    height: 3px;
+    background-color: white;
+    border: 0px none;
+    margin-left: 23px;
+    margin-top: -100px;
+
+}
+
+
+#img {
+
+    background: url(image/h-about.png);
+    background-size: 100% 100%;
+    height: 400px;
+    width: 550px;
+    margin-left: 20px;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+
+#b2 {
+    height: 140px;
+    width: 250px;
+    background-color: goldenrod;
+    margin-left: 320px;
+    margin-top: -450px;
+    border-radius: 5px;
+
+}
+#b2:hover{
+    background-color: orange;
+}
+
+#b3 {
+    color: white;
+    text-align: center;
+    line-height: 220px;
+    font-size: 25px;
+}
+
+#b4 {
+    height: 140px;
+    width: 250px;
+    background-color: #171F32;
+    border-radius: 5px;
+    margin-left: 320px;
+}
+#b4:hover{
+    background-color: orange;
+}
+
+
+#b5 {
+    color: white;
+    text-align: center;
+    line-height: 210px;
+    font-size: 25px;
+}
+
+#b6 {
+    height: 140px;
+    width: 250px;
+    background-color: #171F32;
+    border-radius: 5px;
+    margin-left: 320px;
+    margin-top: -5px;
+
+}
+#b6:hover{
+    background-color: orange;
+}
+
+#b7 {
+    color: white;
+    text-align: center;
+    line-height: 210px;
+    font-size: 25px;
+}
+
+
+#header2 {
+    height: 400px;
+    width: 600px;
+    /* border: 1px solid red; */
+    margin-left: 620px;
+    margin-top: -430px;
+}
+/* about us box end here */
+
+
+/* box images start here */
+#header3 {
+    height: 1500px;
+    width: 1263px;
+    margin-left: -8px;
+    /* border: 1px solid white; */
+    background-color: azure;
+    margin-top: 50px;
+}
+
+#c1 {
+    height: 280px;
+    width: 405px;
+    background-color: azure;
+    /* border: 1px solid red; */
+    margin-top: 40px;
+    margin-left: 10px;
+    float: left;
+
+}
+#c1:hover{
+    background-color: wheat;
+}
+
+#c2 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/1sr\ img.jpg);
+    background-size: 100% 100%;
+    margin-top: 40px;
+    margin-left: 10px;
+    float: left;
+}
+
+#c3 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/2nd\ img.jpg);
+    background-size: 100% 100%;
+    margin-top: 40px;
+    margin-left: 10px;
+    float: left;
+}
+
+#c4 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/3rd\ img.jpg);
+    background-size: 100% 100%;
+    margin-left: 10px;
+    float: left;
+}
+
+#c5 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/4th\ img.webp);
+    background-size: 100% 100%;
+    margin-top: -1150px;
+    margin-left: 425px;
+
+}
+
+#c6 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/5th\ img.jpg);
+    background-size: 100% 100%;
+    margin-left: 840px;
+    margin-top: -280px;
+    float: left;
+}
+
+#c7 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/6th\ img.png);
+    background-size: 100% 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+#c8 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/7th\ img.jpg);
+    background-size: 100% 100%;
+    margin-top: -280px;
+    margin-left: 425px;
+
+}
+
+#c9 {
+    height: 280px;
+    width: 405px;
+    background: linear-gradient(transparent, #1C335F), url(image/8th\ img.jpg);
+    background-size: 100% 100%;
+    margin-left: 840px;
+    margin-top: -280px;
+    float: left;
+}
+
+/* box imges end here */
+
+/* Contact us best services  start here*/
+#header8 {
+    height: 300px;
+    width: 1263px;
+    margin-left: -8px;
+    background-color: #171F32;
+    margin-top: 25px;
+}
+
+#c10 {
+    text-align: center;
+    color: white;
+    margin-top: -94px;
+    font-size: 20px;
+}
+#header9 {
+    height: 65px;
+    width: 600px;
+    /* border: 1px solid red; */
+    margin-top: -120px;
+    margin-left: 330px;
+}
+
+#c12 {
+    height: 50px;
+    width: 170px;
+    /* border-radius: 3px; */
+    border: 1px solid #21a7d0;
+    box-shadow: 0px 0px 10px 0px #21a7d0;
+    float: left;
+    
+
+}
+#c12:hover{
+    background-color: aqua;
+}
+
+#c13 {
+    height: 50px;
+    width: 190px;
+    /* border-radius: 4px; */
+    border: 1px solid #21a7d0;
+    box-shadow: 0px 0px 10px 0px #21a7d0;
+    margin-left: 20px;
+    float: left;
+}
+#c13:hover{
+    background-color: aqua;
+}
+
+
+#c14 {
+    height: 50px;
+    width: 190px;
+    /* border-radius: 4; */
+    border: 1px solid #21a7d0;
+    box-shadow: 0px 0px 10px 0px #21a7d0;
+    margin-left: 19px;
+    float: left;
+}
+#c14:hover{
+    background-color: aqua;
+}
+
+
+#c15 {
+    margin-left: 45px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #21a7d0;
+}
+#c16 {
+    margin-left: 33px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #21a7d0;
+}
+
+#c17 {
+    margin-left: 33px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #21a7d0;
+
+}
+/* contsct us best services end here */
+
+/* Top Featured IT servisces start here */
+#header10 {
+    height: 1000px;
+    width: 1262px;
+    margin-left: -8px;
+    border: 1px solid white;
+    margin-top: 55px;
+    background: url(image/back\ build.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+#x1{
+    height: 300px;
+    width: 390px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-top: -800px;
+    margin-left: 20px;
+}
+#x1:hover{
+    background-color: #042244;
+    
+}
+
+#img1 {
+    height: 80px;
+    width: 80px;
+    margin-left: 39%;
+    margin-top: 10%;
+}
+
+#x2 {
+    height: 300px;
+    width: 390px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-top: -250px;
+    margin-left: 430px;
+}
+#x2:hover{
+    background-color: #042244;
+}
+
+#img2 {
+    height: 90px;
+    width: 90px;
+    margin-left: 38%;
+    margin-top: 9%;
+
+}
+
+#x3 {
+    height: 300px;
+    width: 390px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#x3:hover{
+    background-color: #042244;
+}
+
+#img3 {
+    height: 90px;
+    width: 90px;
+    margin-left: 38%;
+    margin-top: 10%;
+}
+
+#x4 {
+    height: 300px;
+    width: 390px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+#x4:hover{
+    background-color: #042244;
+}
+
+#img4 {
+    height: 100px;
+    width: 100px;
+    margin-left: 35%;
+    margin-top: 9%;
+
+}
+
+#x5 {
+    height: 300px;
+    width: 390px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-top: -300px;
+    border-radius: 5px;
+    margin-left: 430px;
+}
+#x5:hover{
+    background-color: #042244;
+}
+
+#img5 {
+    height: 90px;
+    width: 90px;
+    margin-left: 37%;
+    margin-top: 9%;
+    border-radius: 50%;
+
+}
+
+#x6 {
+    height: 300px;
+    width: 390px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px 0px blue;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#x6:hover{
+    background-color: #042244;
+}
+
+#img6 {
+    height: 100px;
+    width: 100px;
+    margin-left: 37%;
+    margin-top: 8%;
+}
+
+#header13 {
+    height: 650px;
+    width: 1262px;
+    margin-left: -8px;
+    border: 1px solid white;
+    margin-top: 150px;
+}
+
+/* Top Featured IT Servisces end here */
+
+/* Our Placement Parthner start here */
+#header14 {
+    height: 450px;
+    width: 1253.6px;
+    border: 1px solid white;
+}
+
+#z1 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z1:hover{
+    background-color: #acb2bc;
+}
+
+#z2 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z2:hover{
+    background-color: #acb2bc;
+}
+
+#z3 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z3:hover{
+    background-color: #acb2bc;
+}
+
+#z4 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z4:hover{
+    background-color: #acb2bc;
+}
+
+#z5 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z5:hover{
+    background-color: #acb2bc;
+}
+
+#z6 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z6:hover{
+    background-color: #acb2bc;
+}
+
+#z7 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z7:hover{
+    background-color: #acb2bc;
+}
+
+#z8 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z8:hover{
+    background-color: #acb2bc;
+}
+
+#z9 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z9:hover{
+    background-color: #acb2bc;
+}
+
+#z10 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z10:hover{
+    background-color: #acb2bc;
+}
+
+#z11 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z11:hover{
+    background-color: #acb2bc;
+}
+
+#z12 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z12:hover{
+    background-color: #acb2bc;
+}
+
+#z13 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z13:hover{
+    background-color: #acb2bc;
+}
+
+#z14 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z14:hover{
+    background-color: #acb2bc;
+}
+
+#z15 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z15:hover{
+    background-color: #acb2bc;
+}
+
+#z16 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z16:hover{
+    background-color: #acb2bc;
+}
+
+#z17 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z17:hover{
+    background-color: #acb2bc;
+}
+
+#z18 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z18:hover{
+    background-color: #acb2bc;
+}
+
+#z19 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+}
+#z19:hover{
+    background-color: #acb2bc;
+}
+
+#z20 {
+    height: 70px;
+    width: 220px;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 13px 0px navy;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 20px;
+    float: left;
+    
+    
+}
+/* #z20{
+    height: 70px;
+    width: 220px;
+    background-color: red;
+    animation: abdullah infinite;
+    animation-duration: 2s;
+}
+@keyframes abdullah{
+    0%{
+        background-color: red;
+    }
+    10%{
+        background-color: #042244;
+    }
+    50%{
+        background-color: #acb2bc;
+    }
+    100%{
+        background-color: #acb2bc;
+    }
+} */
+#z20:hover{
+    background-color: #acb2bc;
+}
+
+#z21 {
+    height: 50px;
+    width: 200px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin: 0px auto;
+    margin-top: 390px;
+    background-color: #171F32;
+}
+#z21:hover{
+    background-color: #21a7d0;
+}
+
+/* Our Placement Parthner end here */
+
+/* Our selected students start here */
+#header15 {
+    height: 800px;
+    width: 1262px;
+    margin-left: -8px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+}
+
+#header16 {
+    height: 650px;
+    width: 1253.5px;
+    margin-left: 6px;
+    border: 1px solid whitesmoke;
+}
+
+#f1 {
+    height: 250px;
+    width: 287px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f1:hover{
+    background-color: #acb2bc;
+}
+
+#f2 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f2:hover{
+    background-color: #acb2bc;
+}
+
+#f3 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f3:hover{
+    background-color: #acb2bc;
+}
+
+#f4 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f4:hover{
+    background-color: #acb2bc;
+}
+
+#f5 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f5:hover{
+    background-color: #acb2bc;
+}
+
+#f6 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f6:hover{
+    background-color: #acb2bc;
+}
+
+#f7 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f7:hover{
+    background-color: #acb2bc;
+}
+
+#f8 {
+    height: 250px;
+    width: 287px;
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 13px 0px navy;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+#f8:hover{
+    background-color: #acb2bc;
+}
+
+
+#photo1 {
+    height: 150px;
+    /* box-shadow: 1px 1px 15px 0px lightskyblue; */
+    margin-left: 85PX;
+    margin-top: 10PX;
+
+}
+
+#photo2 {
+    height: 150px;
+    /* box-shadow: 1px 1px 15px 0px lightskyblue; */
+    margin-left: 70PX;
+    margin-top: 10PX;
+
+}
+
+#f9 {
+    height: 50px;
+    width: 200px;
+    box-shadow: 1px 1px 15px 0px lightskyblue;
+    margin: 0px auto;
+    margin-top: 600px;
+    background-color: #171F32;
+}
+#f9:hover{
+    background-color: #21a7d0;
+}
+/* our selected students end here */
+
+/* background img best offer join us start here */
+
+#header17 {
+    height: 600px;
+    width: 1263px;
+    margin-left: -2px;
+    border: 1px dotted white;
+    margin-top: 30px;
+}
+
+#d1 {
+    height: 600px;
+    width: 631px;
+    background: url(image/imge.jpg);
+    background-size: 100% 100%;
+    float: left;
+}
+
+#d2 {
+    height: 600px;
+    width: 632px;
+    background: url(image/blur\ img.jpg);
+    background-size: 100% 100%;
+    float: left;
+}
+
+#d3 {
+    height: 350px;
+    width: 400px;
+    /* border: 1px solid red; */
+    margin-left: 70px;
+    margin-top: 120px;
+}
+
+#d4 {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 0px lightskyblue;
+    margin-left: 75px;
+    background-color: orangered;
+
+}
+#d4:hover{
+    background-color: gray;
+}
+/* background offer join us end here */
+
+/* boots your skills box  start here*/
+
+#head1 {
+    height: 330px;
+    width: 1262px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-top: 600px;
+}
+
+#t1 {
+    height: 200px;
+    width: 272px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px 0px magenta;
+    border: 1px solid whitesmoke;
+    background-color: #1C335F;
+    margin-left: 40px;
+    margin-top: 50px;
+    float: left;
+}
+#t1:hover{
+    background-color: black;
+}
+
+#contact {
+    height: 110px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+#t2 {
+    height: 200px;
+    width: 272px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px 0px magenta;
+    border: 1px solid whitesmoke;
+    background-color: #1C335F;
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+#t2:hover{
+    background-color: black;
+}
+
+#contact1 {
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+#t3 {
+    height: 200px;
+    width: 272px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px 0px magenta;
+    border: 1px solid whitesmoke;
+    background-color: #1C335F;
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+/* #t3{
+    height: 200px;
+    width: 272px;
+    background-color: red;
+    animation: abdullah infinite;
+    animation-duration: 1s;
+    animation-delay: 1s;
+}
+@keyframes abdullah{
+    0%{
+        background-color: red;
+    }
+    10%{
+        background-color: #042244;
+    }
+    50%{
+        background-color: #acb2bc;
+    }
+    100%{
+        background-color: #acb2bc;
+    }
+} */
+#t3:hover{
+    background-color: black;
+}
+
+#contact2 {
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+#t4 {
+    height: 200px;
+    width: 272px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px 0px magenta;
+    border: 1px solid whitesmoke;
+    background-color: #1C335F;
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+#t4:hover{
+    background-color: black;
+}
+
+#contact3 {
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+/* boost your skills box end here */
+
+/* review background box start here  */
+#header19 {
+    height: 300px;
+    width: 1262.9px;
+    border: 1px solid whitesmoke;
+    background: url(image/books.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+#l1 {
+    height: 280px;
+    width: 1220px;
+    margin-left: 15px;
+    border: 1px transparent red;
+    margin-top: 10px;
+}
+
+#l2 {
+    height: 250px;
+    width: 300px;
+    border: 1px transparent red;
+    float: left;
+}
+
+#l3 {
+    height: 250px;
+    width: 300px;
+    border: 1px transparent red;
+    float: left;
+}
+
+#l4 {
+    height: 250px;
+    width: 300px;
+    border: 1px transparent red;
+    float: left;
+}
+
+#l5 {
+    height: 250px;
+    width: 300px;
+    border: 1px transparent red;
+    float: left;
+}
+/* review background box  end here*/
+
+/* subscribe use button start here */
+#header20 {
+    height: 250px;
+    width: 1262px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+
+#l6 {
+    height: 100px;
+    width: 350px;
+    border: 1px transparent red;
+    margin: 0px auto;
+    margin-top: 65px;
+}
+
+#l7 {
+    height: 50px;
+    width: 450px;
+    border: 1px transparent red;
+    margin: 0px auto;
+
+
+}
+
+#email {
+    height: 30px;
+    width: 330px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 13px 0px magenta;
+    border-radius: 5px grey;
+
+}
+#email:hover{
+    background-color: wheat;
+}
+
+#submit {
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: #885aa6;
+    box-shadow: 0px 0px 13px 0px magenta;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#submit:hover{
+    background-color: black;
+}
+
+/* subscribe us  button end here */
+
+/* footer box  start here */
+#l8 {
+    height: 3px;
+    width: 1262.5px;
+    border-bottom: 5px solid orange;
+    margin-top: 30px;
+}
+
+#header21 {
+    height: 450px;
+    width: 1262.5px;
+    background-color: #042244;
+    border: 1px solid #042244;
+}
+
+#footer1 {
+    height: 400px;
+    width: 312px;
+    border: 1px solid #042244;
+    float: left;
+}
+
+
+#footer2 {
+    height: 400px;
+    width: 290px;
+    border: 1px solid #042244;
+    float: left;
+}
+
+#footer3 {
+    height: 400px;
+    width: 290px;
+    border: 1px solid #042244;
+    float: left;
+}
+
+#footer4 {
+    height: 400px;
+    width: 311px;
+    border: 1px solid #042244;
+    float: left;
+}
+/* #footer4:hover{
+    background-color: blue;
+}
+ */
+
+#email1 {
+    margin-left: 20px;
+    height: 35px;
+    width: 230px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+}
+#email1:hover{
+    background-color: wheat;
+}
+
+#plane {
+    height: 20px;
+
+}
+
+
+#btn {
+    margin-top: -38px;
+    margin-left: 258px;
+}
+#btn:hover{
+    background-color: #885aa6;
+}
+
+#ftr {
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+/* #ullibox{
+    height: 35px;
+    width: 300px;
+    border: 1px solid red;
+    margin-left: -25px;
+    margin-top: px;
+    
+} */
+#ulimg #imgli {
+    list-style: none;
+    float: left;
+    padding: 7px;
+}
+
+#flat {
+    height: 30px;
+    margin-top: 10px;
+}
+
+#box1 {
+    margin-top: -6130px;
+    margin-left: 430px;
+}
+
+#box11 {
+    height: 50px;
+}
+
+#box2 {
+    margin-top: 100px;
+    margin-left: 430px;
+}
+
+#box22 {
+    height: 55px;
+}
+
+#box3 {
+    margin-top: 110px;
+    margin-left: 435px;
+}
+
+#box33 {
+    height: 40px;
+}
+/* 
+#c12:hover{
+background-color: #21a7d0;
+} */
+
+/* footer box end here */
